@@ -28,7 +28,27 @@ This project is a simple quiz game built using Python and the Tkinter library fo
 
 ### Installation
 
-1. Clone this repository to your local machine:
+  1. Clone this repository to your local machine:
+  
+    ```bash
+    git https://github.com/Dimplektech/Quizzler-A-True-False-Quiz-Application.git
 
-```bash
-git https://github.com/Dimplektech/Quizzler-A-True-False-Quiz-Application.git
+
+### Run the Application
+    ```bash
+    python main.py
+
+### How to Play
+ 1. Once the application starts, you'll see a True/False question on the screen.
+ 2. Click the True or False button based on your answer.
+ 3.Your score will update after each question.
+ 4. The background will briefly change to green for correct answers and red for incorrect answers.
+ 5. Once you've answered all the questions, you'll see a final message indicating the end of the quiz.
+
+
+
+### API Reference
+ - Open Trivia Database API 
+
+
+
