@@ -31,4 +31,4 @@ This project is a simple quiz game built using Python and the Tkinter library fo
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git https://github.com/Dimplektech/Quizzler-A-True-False-Quiz-Application.git
